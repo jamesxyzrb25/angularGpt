@@ -1,0 +1,2 @@
+import{Pa as i,Qa as s,W as o,Ya as a,ab as r,tb as p}from"./chunk-SRCUUPOX.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-assistant-page"]],standalone:!0,features:[r],decls:3,vars:0,template:function(n,m){n&1&&(i(0,"p"),a(1,"assistantPage works!"),s(),a(2,`,
+`))},dependencies:[p],encapsulation:2,changeDetection:0});let t=e;return t})();export{f as default};
