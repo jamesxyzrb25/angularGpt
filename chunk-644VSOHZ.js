@@ -1,0 +1,2 @@
+import{Pa as o,Qa as r,W as i,Ya as a,ab as m,tb as p}from"./chunk-SRCUUPOX.js";var u=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=i({type:e,selectors:[["app-image-tunning-page"]],standalone:!0,features:[m],decls:3,vars:0,template:function(n,c){n&1&&(o(0,"p"),a(1,"imageTunningPage works!"),r(),a(2,`,
+`))},dependencies:[p],encapsulation:2,changeDetection:0});let t=e;return t})();export{u as default};

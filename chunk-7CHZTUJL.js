@@ -1,0 +1,2 @@
+import{Pa as i,Qa as r,W as a,Ya as o,ab as s,tb as p}from"./chunk-SRCUUPOX.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=a({type:e,selectors:[["app-pros-cons-stream-page"]],standalone:!0,features:[s],decls:3,vars:0,template:function(n,m){n&1&&(i(0,"p"),o(1,"prosConsStreamPage works!"),r(),o(2,`,
+`))},dependencies:[p],encapsulation:2,changeDetection:0});let t=e;return t})();export{f as default};
