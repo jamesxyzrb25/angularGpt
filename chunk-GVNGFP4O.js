@@ -1,0 +1,2 @@
+import{Pb as p,ba as o,eb as i,fb as r,pb as a,tb as m}from"./chunk-XZEVKK2T.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-image-generation-page"]],standalone:!0,features:[m],decls:3,vars:0,template:function(n,c){n&1&&(i(0,"p"),a(1,"imageGenerationPage works!"),r(),a(2,`,
+`))},dependencies:[p],encapsulation:2,changeDetection:0});let t=e;return t})();export{f as default};

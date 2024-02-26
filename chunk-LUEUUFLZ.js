@@ -1,2 +1,0 @@
-import{Pa as i,Qa as r,W as a,Ya as o,ab as p,tb as s}from"./chunk-SRCUUPOX.js";var u=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=a({type:e,selectors:[["app-text-to-audio-page"]],standalone:!0,features:[p],decls:3,vars:0,template:function(n,d){n&1&&(i(0,"p"),o(1,"textToAudioPage works!"),r(),o(2,`,
-`))},dependencies:[s],encapsulation:2,changeDetection:0});let t=e;return t})();export{u as default};
