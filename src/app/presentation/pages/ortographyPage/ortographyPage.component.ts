@@ -29,7 +29,7 @@ import { GptMessageOrtographyComponent } from "../../components/chat-bubbles/gpt
 })
 export default class OrtographyPageComponent { 
 
-  public messages = signal<Message[]>([{text:"Hola mundo", isGpt:false}]);
+  public messages = signal<Message[]>([]);
   public isLoading = signal(false);
   public openAiService = inject(OpenAiService);
 
